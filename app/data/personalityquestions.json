@@ -1,0 +1,721 @@
+[{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286716"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "I’ve been romantic and imaginative",
+  "t2": 6,
+  "q2": "I’ve been pragmatic and down to earth",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.368Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286717"
+  },
+  "status": 1,
+  "t1": 8,
+  "q1": "I have tended to take on confrontations",
+  "t2": 9,
+  "q2": "I have tended to avoid confrontations",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.374Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286718"
+  },
+  "status": 1,
+  "t1": 3,
+  "q1": "I have typically been diplomatic, charming and ambitious",
+  "t2": 1,
+  "q2": "I have typically been direct, formal and idealistic",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.377Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286719"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "I have tended to be focused and intense",
+  "t2": 7,
+  "q2": "I have tended to be spontaneous and fun-loving",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.380Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671a"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have been a hospitable person and have enjoyed welcoming others into my life",
+  "t2": 4,
+  "q2": "I have been a private person and have not mixed much with others",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.382Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671b"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "It’s been difficult for me to relax and stop worrying about potential problems",
+  "t2": 9,
+  "q2": "It’s been difficult for me to get worked up about potential problems",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.384Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.384Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671c"
+  },
+  "status": 1,
+  "t1": 8,
+  "q1": "I’ve been more of a “street-smart” survivor",
+  "t2": 1,
+  "q2": "I’ve been more of a “high-minded” idealist",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.385Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.385Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671d"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have needed to show affection to people",
+  "t2": 5,
+  "q2": "I have preferred to maintain distance with people",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.387Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671e"
+  },
+  "status": 1,
+  "t1": 3,
+  "q1": "When presented with a new experience, I’ve usually asked myself if it would be useful",
+  "t2": 8,
+  "q2": "When presented with a new experience, I’ve usually asked myself if it would be enjoyable",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.389Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128671f"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "I have tended to focus too much on myself",
+  "t2": 9,
+  "q2": "I have tended to focus too much on others",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286720"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "Others have depended on my insight and knowledge",
+  "t2": 1,
+  "q2": "Others have depended on my strength and decisiveness",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.394Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.394Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286721"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I have come across as being too unsure of myself",
+  "t2": 1,
+  "q2": "I have come across as being too sure of myself",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.396Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.396Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286722"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have been more relationship-oriented than goal-oriented",
+  "t2": 3,
+  "q2": "I have been more goal-oriented than relationship-oriented",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.398Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.398Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286723"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "I have not been able to speak up for myself very well",
+  "t2": 9,
+  "q2": "I have been outspoken – I’ve said what others wish they had the nerve to say",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.399Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286724"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "It’s been difficult for me to stop considering alternatives and do something definite",
+  "t2": 1,
+  "q2": "It’s been difficult for me to take it easy and be flexible",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.401Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.401Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286725"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I have tended to be careful and hesitant",
+  "t2": 2,
+  "q2": "I have tended to be bold and domineering",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.402Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286726"
+  },
+  "status": 1,
+  "t1": 9,
+  "q1": "My reluctance to get too involved has gotten me in trouble with people",
+  "t2": 2,
+  "q2": "My eagerness to have people depend on me has gotten me in trouble with them",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.404Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.404Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286727"
+  },
+  "status": 1,
+  "t1": 3,
+  "q1": "Usually, I have been able to put my feelings aside to get the job done",
+  "t2": 4,
+  "q2": "Usually, I have needed to work through my feelings before I act out",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.406Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286728"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "Generally, I have been methodical and cautious",
+  "t2": 7,
+  "q2": "Generally, I have been adventurous and take risks",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.407Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286729"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have tended to be a supportive, giving person who seeks intimacy with others",
+  "t2": 1,
+  "q2": "I have tended to be a serious, reserved person who likes discussing issues",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.409Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672a"
+  },
+  "status": 1,
+  "t1": 8,
+  "q1": "I’ve often felt the need to be a “pillar of strength”",
+  "t2": 3,
+  "q2": "I’ve often felt the need to perform perfectly",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.411Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672b"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "I’ve typically been interested in asking the tough questions and maintaining my space",
+  "t2": 9,
+  "q2": "I’ve typically been interested in maintaining my stability and peace of mind",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.413Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.413Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672c"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "When I’ve had conflicts with others, I’ve tended to withdraw",
+  "t2": 8,
+  "q2": "When I’ve had conflicts with others, I’ve rarely backed down",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.414Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672d"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "In reaction to pressure from others, I have become more withdrawn",
+  "t2": 7,
+  "q2": "In reaction to pressure from others, I have become more assertive",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.416Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.416Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672e"
+  },
+  "status": 1,
+  "t1": 7,
+  "q1": "Dealing with details has not been one of my strong suits",
+  "t2": 3,
+  "q2": "I have excelled at dealing with details",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.417Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.417Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128672f"
+  },
+  "status": 1,
+  "t1": 7,
+  "q1": "Typically, I have not had much self-discipline",
+  "t2": 5,
+  "q2": "Typically, I have not had much connection with people",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.419Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.419Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286730"
+  },
+  "status": 1,
+  "t1": 7,
+  "q1": "I’ve often worried that I’m missing out on something better",
+  "t2": 8,
+  "q2": "I’ve often worried that if I let my guard down, someone will take advantage of me",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.421Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.421Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286731"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "I have lost out because I have not felt up to taking opportunities",
+  "t2": 7,
+  "q2": "I have lost out because I have pursued too many possibilities",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.422Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286732"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "I have tended to take a long time to get into action",
+  "t2": 1,
+  "q2": "I have tended to get into action too quickly",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.424Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286733"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I usually have had difficulty making decisions",
+  "t2": 8,
+  "q2": "I seldom have had difficulty making decisions",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.426Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286734"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have a tendency to come on a little too strong with people",
+  "t2": 9,
+  "q2": "I have a tendency not to assert myself enough with people",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.427Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286735"
+  },
+  "status": 1,
+  "t1": 3,
+  "q1": "Typically, I have been even-tempered",
+  "t2": 4,
+  "q2": "Typically, I have strong changes of mood",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.429Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286736"
+  },
+  "status": 1,
+  "t1": 4,
+  "q1": "I have often emphasized how different I am from most people, especially my family",
+  "t2": 9,
+  "q2": "I have often emphasized how much I have in common with people, especially my family",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.431Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286737"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "When situations have gotten heated, I have tended to stay on the sidelines",
+  "t2": 8,
+  "q2": "When situations have gotten heated, I’ve tended to get right in the middle of things",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.432Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286738"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I have stood by my friends, even when they have been wrong",
+  "t2": 1,
+  "q2": "I have not wanted to compromise what is right, even for friendship",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.434Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.434Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286739"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I’ve been a well-meaning supporter",
+  "t2": 3,
+  "q2": "I’ve been a highly-motivated go-getter",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.436Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.436Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673a"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "When troubled, I have tended to brood about my problems",
+  "t2": 7,
+  "q2": "When troubled, I have tended to find distractions for myself",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.438Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673b"
+  },
+  "status": 1,
+  "t1": 1,
+  "q1": "Generally, I’ve had strong convictions and a sense of how things should be",
+  "t2": 5,
+  "q2": "Generally, I’ve had serious doubts and have questioned how things seemed to be",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.440Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673c"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I’ve created problems with others by being pessimistic and complaining",
+  "t2": 8,
+  "q2": "I’ve created problems with others by being bossy and controlling",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.442Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673d"
+  },
+  "status": 1,
+  "t1": 2,
+  "q1": "I have tended to act on my feelings and let the “chips fall where they may”",
+  "t2": 9,
+  "q2": "I have not tended to act on my feelings lest they stir up more problems",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.445Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673e"
+  },
+  "status": 1,
+  "t1": 3,
+  "q1": "Being the center of attention has usually felt natural to me",
+  "t2": 4,
+  "q2": "Being the center of attention has usually felt strange to me",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.447Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce128673f"
+  },
+  "status": 1,
+  "t1": 6,
+  "q1": "I’ve been careful, and tried to prepare for unforeseen problems",
+  "t2": 7,
+  "q2": "I’ve been spontaneous, and have preferred to improvise as problems come up",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.449Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.449Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286740"
+  },
+  "status": 1,
+  "t1": 1,
+  "q1": "I’ve been a bit serious and strict with myself",
+  "t2": 7,
+  "q2": "I’ve been a bit free-wheeling and permissive with myself",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.450Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.450Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286741"
+  },
+  "status": 1,
+  "t1": 8,
+  "q1": "Being independent and self-reliant has been important to me",
+  "t2": 3,
+  "q2": "Being valued and admired has been important to me",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.452Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.452Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54e95a1b9f0d3ce1286742"
+  },
+  "status": 1,
+  "t1": 5,
+  "q1": "When I’ve debated with friends, I’ve tended to press my arguments forcefully",
+  "t2": 9,
+  "q2": "When I’ve debated with friends, I’ve tended to let things go to prevent hard feelings",
+  "createdAt": {
+    "$date": "2020-02-25T09:31:06.453Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T09:31:06.453Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "5e15b3ca6b54e24225ef84e9"
+  },
+  "struggles": {
+    "struggle": [
+      "Critical",
+      "Overly Opinionated",
+      "Defensive",
+      "Reactionary",
+      "Impatient"
+    ],
+    "overview": "Type 1 leaders see the importance of setting clear goals and demonstrating to others how to reach their greatest potential.",
+    "description": "This is who you call when you need someone to look over your work and bring it to the next level."
+  },
+  "strengths": [
+    "Values Honesty",
+    "Consistent",
+    "Leads By Example",
+    "Organized",
+    "Seeks Perfection"
+  ],
+  "status": 1,
+  "tab": 1,
+  "name": "Reformer",
+  "createdAt": {
+    "$date": "2020-01-08T10:49:46.462Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T10:49:46.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b4766b54e24225ef84ea"
+  },
+  "struggles": {
+    "struggle": [
+      "Lacks Personal Boundaries",
+      "Requires Excessive Appreciation",
+      "Indirect",
+      "Generosity Has Atrings Attached",
+      "Carries Grudges On Behalf of Others"
+    ],
+    "overview": "Type 2 leaders take on the responsibility of assessing the overall health of the team members in order to adapt organizational goals for maximum accomplishments.",
+    "description": "This is who you call when you need to be told how loved and valuable you are."
+  },
+  "strengths": [
+    "Personable",
+    "Motivating",
+    "Supportive",
+    "Responsible",
+    "Insightful"
+  ],
+  "status": 1,
+  "tab": 2,
+  "name": "Helper",
+  "createdAt": {
+    "$date": "2020-01-08T10:52:38.563Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T10:52:38.563Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b5196b54e24225ef84eb"
+  },
+  "struggles": {
+    "struggle": [
+      "Excessively Competitive",
+      "Creates Own Reality",
+      "Personal Relationships Are Not Priorities",
+      "Impatient With Displays of Emotion",
+      "Hasty"
+    ],
+    "overview": "Type 3 leaders are over-achievers who set up their team members for accomplishable successes around a common organizational goal.",
+    "description": "This is who you call when you have an idea but aren’t sure how you’re going to make it work."
+  },
+  "strengths": [
+    "Entrepreneurial",
+    "Optimistic",
+    "Self-Reliant",
+    "Results-Driven",
+    "Energetic"
+  ],
+  "status": 1,
+  "tab": 3,
+  "name": "Achiever",
+  "createdAt": {
+    "$date": "2020-01-08T10:55:21.221Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T10:55:21.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b5906b54e24225ef84ec"
+  },
+  "struggles": {
+    "struggle": [
+      "Self-Conscious",
+      "Resists Criticism, But Critical of Others",
+      "Often Bored",
+      "Capricious",
+      "Detached"
+    ],
+    "overview": "Type 4 leaders seek to associate meaning and purpose with their organizations in order to inspire team members to be excellent employees.",
+    "description": "This is who you call when you want to be accepted just as you are without fear of judgement."
+  },
+  "strengths": [
+    "Instinctual",
+    "Creative",
+    "Inner-Directed",
+    "Empathetic",
+    "Articulate"
+  ],
+  "status": 1,
+  "tab": 4,
+  "name": "Individualist",
+  "createdAt": {
+    "$date": "2020-01-08T10:57:20.768Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T10:57:20.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b5f56b54e24225ef84ed"
+  },
+  "struggles": {
+    "struggle": [
+      "Reluctant",
+      "Excessively Independent",
+      "Unassertive",
+      "Self-Conscious",
+      "Withholding"
+    ],
+    "overview": "Type 5 leaders develop efficiency though research and planning where each team member knows how they fit and can independently work toward the common goal.",
+    "description": "This is who you call when you need an innovative solution to your problem."
+  },
+  "strengths": [
+    "Persistent",
+    "Objective",
+    "Analytical",
+    "Thoughtful",
+    "Knowledgeable"
+  ],
+  "status": 1,
+  "tab": 5,
+  "name": "Investigator",
+  "createdAt": {
+    "$date": "2020-01-08T10:59:01.948Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T10:59:01.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b65f6b54e24225ef84ee"
+  },
+  "struggles": {
+    "struggle": [
+      "Over-Analyzes",
+      "Worrisome",
+      "Intolerant of Unknowns",
+      "Reactionary",
+      "Risk-Averse"
+    ],
+    "overview": "AversiveType 6 leaders establish open environments where team members contributeand each feels part of both the developing process as well as the resolution of challenges.",
+    "description": "This is who you call when you need help thinking through possible outcomes."
+  },
+  "strengths": [
+    "Loyal",
+    "Pragmatic",
+    "Long-Suffering",
+    "Proactive",
+    "Strategic"
+  ],
+  "status": 1,
+  "tab": 6,
+  "name": "Loyalist",
+  "createdAt": {
+    "$date": "2020-01-08T11:00:47.356Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T11:00:47.356Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b6ba6b54e24225ef84ef"
+  },
+  "struggles": {
+    "struggle": [
+      "Obstinate",
+      "Impulsive",
+      "Resistant To Compromise",
+      "Avoidant",
+      "Distracted"
+    ],
+    "overview": "Type 7 leaders generate excitement for new prospects sweeping team members into the energetic flow for optimizing every possible opportunity.",
+    "description": "This is who you call when you need help believing it’s all going to work out and/or permission to do what you want to do anyway."
+  },
+  "strengths": [
+    "Original",
+    "Curious",
+    "Captivating",
+    "Aggregable",
+    "Energizing"
+  ],
+  "status": 1,
+  "tab": 7,
+  "name": "Enthusiast",
+  "createdAt": {
+    "$date": "2020-01-08T11:02:18.558Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T11:02:18.558Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b7306b54e24225ef84f0"
+  },
+  "struggles": {
+    "struggle": [
+      "Demanding",
+      "Relentless",
+      "Intolerant",
+      "Harsh Expectations",
+      "Controlling"
+    ],
+    "overview": "Type 8 leaders push forward by attracting accomplished, highly-qualified team members and empowering them to take action toward the common objectives.",
+    "description": "This is who you call when you need honest feedback on who you are as a person and where you should/shouldn’t be putting your energy."
+  },
+  "strengths": [
+    "Task-Oriented",
+    "Decisive",
+    "Self-Confident",
+    "Protective",
+    "Deliberate"
+  ],
+  "status": 1,
+  "tab": 8,
+  "name": "Challenger",
+  "createdAt": {
+    "$date": "2020-01-08T11:04:16.924Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T11:04:16.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e15b7866b54e24225ef84f1"
+  },
+  "struggles": {
+    "struggle": [
+      "Procrastinator",
+      "Indecisive",
+      "Unfocused",
+      "Hesitant",
+      "Passive"
+    ],
+    "overview": "Type 9 leaders bring team members together to work toward a mutually beneficial goal through harmonious collaboration.",
+    "description": "This is who you call when you need someone to understand your perspective."
+  },
+  "strengths": [
+    "Undemanding",
+    "Supportive",
+    "Conciliatory",
+    "Patient",
+    "Cooperative"
+  ],
+  "status": 1,
+  "tab": 9,
+  "name": "Peacemaker",
+  "createdAt": {
+    "$date": "2020-01-08T11:05:42.493Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-08T11:05:42.493Z"
+  },
+  "__v": 0
+}]

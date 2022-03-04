@@ -1,0 +1,758 @@
+[{
+  "_id": {
+    "$oid": "5e141d1844d9751c19fb4b60"
+  },
+  "status": 1,
+  "description": "An Achiever is someone who is successful in their studies or their work, usually as a result of their efforts.",
+  "createdAt": {
+    "$date": "2020-01-07T05:54:32.967Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:27:24.953Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e143238dd12fa252ffeb1d3"
+    },
+    {
+      "$oid": "5e14325cdd12fa252ffeb1d4"
+    },
+    {
+      "$oid": "5e143261dd12fa252ffeb1d5"
+    },
+    {
+      "$oid": "5e143267dd12fa252ffeb1d6"
+    },
+    {
+      "$oid": "5e14326edd12fa252ffeb1d7"
+    },
+    {
+      "$oid": "5e143273dd12fa252ffeb1d8"
+    },
+    {
+      "$oid": "5e143279dd12fa252ffeb1d9"
+    },
+    {
+      "$oid": "5e14327edd12fa252ffeb1da"
+    },
+    {
+      "$oid": "5e143284dd12fa252ffeb1db"
+    },
+    {
+      "$oid": "5e14328cdd12fa252ffeb1dc"
+    },
+    {
+      "$oid": "5e143293dd12fa252ffeb1dd"
+    },
+    {
+      "$oid": "5e143299dd12fa252ffeb1de"
+    },
+    {
+      "$oid": "5e1432a3dd12fa252ffeb1df"
+    },
+    {
+      "$oid": "5e1432a8dd12fa252ffeb1e0"
+    },
+    {
+      "$oid": "5e1432afdd12fa252ffeb1e1"
+    },
+    {
+      "$oid": "5e1432b8dd12fa252ffeb1e2"
+    },
+    {
+      "$oid": "5e1432bedd12fa252ffeb1e3"
+    },
+    {
+      "$oid": "5e1432c4dd12fa252ffeb1e4"
+    },
+    {
+      "$oid": "5e1432cbdd12fa252ffeb1e5"
+    },
+    {
+      "$oid": "5e1432d2dd12fa252ffeb1e6"
+    },
+    {
+      "$oid": "5e1432d7dd12fa252ffeb1e7"
+    },
+    {
+      "$oid": "5e1432dcdd12fa252ffeb1e8"
+    }
+  ],
+  "identity_name": "Achiever"
+},{
+  "_id": {
+    "$oid": "5e141d3844d9751c19fb4b61"
+  },
+  "status": 1,
+  "description": "A Coach is someone who trains others to perform in a particular arena of life or sport.",
+  "createdAt": {
+    "$date": "2020-01-07T05:55:04.275Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:30:41.111Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e143346dd12fa252ffeb1e9"
+    },
+    {
+      "$oid": "5e14335add12fa252ffeb1ea"
+    },
+    {
+      "$oid": "5e143360dd12fa252ffeb1eb"
+    },
+    {
+      "$oid": "5e143365dd12fa252ffeb1ec"
+    },
+    {
+      "$oid": "5e14336bdd12fa252ffeb1ed"
+    },
+    {
+      "$oid": "5e143370dd12fa252ffeb1ee"
+    },
+    {
+      "$oid": "5e143376dd12fa252ffeb1ef"
+    },
+    {
+      "$oid": "5e14337ddd12fa252ffeb1f0"
+    },
+    {
+      "$oid": "5e143382dd12fa252ffeb1f1"
+    },
+    {
+      "$oid": "5e143387dd12fa252ffeb1f2"
+    },
+    {
+      "$oid": "5e14338cdd12fa252ffeb1f3"
+    },
+    {
+      "$oid": "5e143391dd12fa252ffeb1f4"
+    },
+    {
+      "$oid": "5e143396dd12fa252ffeb1f5"
+    },
+    {
+      "$oid": "5e14339bdd12fa252ffeb1f6"
+    },
+    {
+      "$oid": "5e1433a1dd12fa252ffeb1f7"
+    }
+  ],
+  "identity_name": "Coach"
+},{
+  "_id": {
+    "$oid": "5e141d4a44d9751c19fb4b62"
+  },
+  "status": 1,
+  "description": "A Communicator is someone who is able to convey or exchange information, news, or ideas, especially one who is eloquent or skilled.",
+  "createdAt": {
+    "$date": "2020-01-07T05:55:22.801Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:33:28.101Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e1433c7dd12fa252ffeb1f8"
+    },
+    {
+      "$oid": "5e1433ccdd12fa252ffeb1f9"
+    },
+    {
+      "$oid": "5e1433d3dd12fa252ffeb1fa"
+    },
+    {
+      "$oid": "5e1433d8dd12fa252ffeb1fb"
+    },
+    {
+      "$oid": "5e1433dedd12fa252ffeb1fc"
+    },
+    {
+      "$oid": "5e1433e4dd12fa252ffeb1fd"
+    },
+    {
+      "$oid": "5e1433e9dd12fa252ffeb1fe"
+    },
+    {
+      "$oid": "5e1433efdd12fa252ffeb1ff"
+    },
+    {
+      "$oid": "5e1433f5dd12fa252ffeb200"
+    },
+    {
+      "$oid": "5e1433fbdd12fa252ffeb201"
+    },
+    {
+      "$oid": "5e143402dd12fa252ffeb202"
+    },
+    {
+      "$oid": "5e143407dd12fa252ffeb203"
+    },
+    {
+      "$oid": "5e14340ddd12fa252ffeb204"
+    },
+    {
+      "$oid": "5e143417dd12fa252ffeb205"
+    },
+    {
+      "$oid": "5e14341cdd12fa252ffeb206"
+    },
+    {
+      "$oid": "5e143421dd12fa252ffeb207"
+    },
+    {
+      "$oid": "5e143427dd12fa252ffeb208"
+    },
+    {
+      "$oid": "5e14342edd12fa252ffeb209"
+    },
+    {
+      "$oid": "5e143433dd12fa252ffeb20a"
+    },
+    {
+      "$oid": "5e143438dd12fa252ffeb20b"
+    },
+    {
+      "$oid": "5e14343ddd12fa252ffeb20c"
+    },
+    {
+      "$oid": "5e143442dd12fa252ffeb20d"
+    },
+    {
+      "$oid": "5e143448dd12fa252ffeb20e"
+    }
+  ],
+  "identity_name": "Communicator"
+},{
+  "_id": {
+    "$oid": "5e141d6244d9751c19fb4b63"
+  },
+  "status": 1,
+  "description": "A Creator is someone who brings something into existence.",
+  "createdAt": {
+    "$date": "2020-01-07T05:55:46.376Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:35:51.876Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e14347cdd12fa252ffeb20f"
+    },
+    {
+      "$oid": "5e143483dd12fa252ffeb210"
+    },
+    {
+      "$oid": "5e143489dd12fa252ffeb211"
+    },
+    {
+      "$oid": "5e14348edd12fa252ffeb212"
+    },
+    {
+      "$oid": "5e143494dd12fa252ffeb213"
+    },
+    {
+      "$oid": "5e14349add12fa252ffeb214"
+    },
+    {
+      "$oid": "5e14349fdd12fa252ffeb215"
+    },
+    {
+      "$oid": "5e1434a6dd12fa252ffeb216"
+    },
+    {
+      "$oid": "5e1434acdd12fa252ffeb217"
+    },
+    {
+      "$oid": "5e1434b2dd12fa252ffeb218"
+    },
+    {
+      "$oid": "5e1434b7dd12fa252ffeb219"
+    },
+    {
+      "$oid": "5e1434bddd12fa252ffeb21a"
+    },
+    {
+      "$oid": "5e1434c2dd12fa252ffeb21b"
+    },
+    {
+      "$oid": "5e1434c8dd12fa252ffeb21c"
+    },
+    {
+      "$oid": "5e1434cddd12fa252ffeb21d"
+    },
+    {
+      "$oid": "5e1434d2dd12fa252ffeb21e"
+    },
+    {
+      "$oid": "5e1434d7dd12fa252ffeb21f"
+    }
+  ],
+  "identity_name": "Creator"
+},{
+  "_id": {
+    "$oid": "5e141d6e44d9751c19fb4b64"
+  },
+  "status": 1,
+  "description": "A Doer is someone who acts rather than merely talking or thinking.",
+  "createdAt": {
+    "$date": "2020-01-07T05:55:58.727Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:38:30.295Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e1434f9dd12fa252ffeb220"
+    },
+    {
+      "$oid": "5e143501dd12fa252ffeb221"
+    },
+    {
+      "$oid": "5e143506dd12fa252ffeb222"
+    },
+    {
+      "$oid": "5e14350bdd12fa252ffeb223"
+    },
+    {
+      "$oid": "5e143510dd12fa252ffeb224"
+    },
+    {
+      "$oid": "5e143515dd12fa252ffeb225"
+    },
+    {
+      "$oid": "5e14351add12fa252ffeb226"
+    },
+    {
+      "$oid": "5e14351fdd12fa252ffeb227"
+    },
+    {
+      "$oid": "5e143526dd12fa252ffeb228"
+    },
+    {
+      "$oid": "5e14352cdd12fa252ffeb229"
+    },
+    {
+      "$oid": "5e143532dd12fa252ffeb22a"
+    },
+    {
+      "$oid": "5e143538dd12fa252ffeb22b"
+    },
+    {
+      "$oid": "5e14353ddd12fa252ffeb22c"
+    },
+    {
+      "$oid": "5e143543dd12fa252ffeb22d"
+    },
+    {
+      "$oid": "5e143549dd12fa252ffeb22e"
+    },
+    {
+      "$oid": "5e14354edd12fa252ffeb22f"
+    },
+    {
+      "$oid": "5e143554dd12fa252ffeb230"
+    },
+    {
+      "$oid": "5e143559dd12fa252ffeb231"
+    },
+    {
+      "$oid": "5e14355edd12fa252ffeb232"
+    },
+    {
+      "$oid": "5e143564dd12fa252ffeb233"
+    },
+    {
+      "$oid": "5e14356add12fa252ffeb234"
+    },
+    {
+      "$oid": "5e143570dd12fa252ffeb235"
+    },
+    {
+      "$oid": "5e143576dd12fa252ffeb236"
+    }
+  ],
+  "identity_name": "Doer"
+},{
+  "_id": {
+    "$oid": "5e141d7b44d9751c19fb4b65"
+  },
+  "status": 1,
+  "description": "A Leader is someone who leads or commands a group, organization, or country.",
+  "createdAt": {
+    "$date": "2020-01-07T05:56:11.591Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:41:28.610Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e1435a4dd12fa252ffeb237"
+    },
+    {
+      "$oid": "5e1435aedd12fa252ffeb238"
+    },
+    {
+      "$oid": "5e1435b4dd12fa252ffeb239"
+    },
+    {
+      "$oid": "5e1435badd12fa252ffeb23a"
+    },
+    {
+      "$oid": "5e1435c1dd12fa252ffeb23b"
+    },
+    {
+      "$oid": "5e1435c8dd12fa252ffeb23c"
+    },
+    {
+      "$oid": "5e1435cfdd12fa252ffeb23d"
+    },
+    {
+      "$oid": "5e1435d5dd12fa252ffeb23e"
+    },
+    {
+      "$oid": "5e1435dbdd12fa252ffeb23f"
+    },
+    {
+      "$oid": "5e1435e3dd12fa252ffeb240"
+    },
+    {
+      "$oid": "5e1435e8dd12fa252ffeb241"
+    },
+    {
+      "$oid": "5e1435eedd12fa252ffeb242"
+    },
+    {
+      "$oid": "5e1435f3dd12fa252ffeb243"
+    },
+    {
+      "$oid": "5e1435f8dd12fa252ffeb244"
+    },
+    {
+      "$oid": "5e1435fedd12fa252ffeb245"
+    },
+    {
+      "$oid": "5e143605dd12fa252ffeb246"
+    },
+    {
+      "$oid": "5e14360add12fa252ffeb247"
+    },
+    {
+      "$oid": "5e143610dd12fa252ffeb248"
+    },
+    {
+      "$oid": "5e143616dd12fa252ffeb249"
+    },
+    {
+      "$oid": "5e14361cdd12fa252ffeb24a"
+    },
+    {
+      "$oid": "5e143622dd12fa252ffeb24b"
+    },
+    {
+      "$oid": "5e143628dd12fa252ffeb24c"
+    }
+  ],
+  "identity_name": "Leader"
+},{
+  "_id": {
+    "$oid": "5e141d9d44d9751c19fb4b66"
+  },
+  "status": 1,
+  "description": "An Optimizer is someone who makes as perfect, effective, or functional as possible.",
+  "createdAt": {
+    "$date": "2020-01-07T05:56:45.350Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:44:39.142Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e143668dd12fa252ffeb24d"
+    },
+    {
+      "$oid": "5e14366ddd12fa252ffeb24e"
+    },
+    {
+      "$oid": "5e143673dd12fa252ffeb24f"
+    },
+    {
+      "$oid": "5e143679dd12fa252ffeb250"
+    },
+    {
+      "$oid": "5e14367fdd12fa252ffeb251"
+    },
+    {
+      "$oid": "5e143687dd12fa252ffeb252"
+    },
+    {
+      "$oid": "5e14368ddd12fa252ffeb253"
+    },
+    {
+      "$oid": "5e143692dd12fa252ffeb254"
+    },
+    {
+      "$oid": "5e143699dd12fa252ffeb255"
+    },
+    {
+      "$oid": "5e14369fdd12fa252ffeb256"
+    },
+    {
+      "$oid": "5e1436a5dd12fa252ffeb257"
+    },
+    {
+      "$oid": "5e1436aadd12fa252ffeb258"
+    },
+    {
+      "$oid": "5e1436b3dd12fa252ffeb259"
+    },
+    {
+      "$oid": "5e1436b9dd12fa252ffeb25a"
+    },
+    {
+      "$oid": "5e1436bedd12fa252ffeb25b"
+    },
+    {
+      "$oid": "5e1436c4dd12fa252ffeb25c"
+    },
+    {
+      "$oid": "5e1436cadd12fa252ffeb25d"
+    },
+    {
+      "$oid": "5e1436cfdd12fa252ffeb25e"
+    },
+    {
+      "$oid": "5e1436d5dd12fa252ffeb25f"
+    },
+    {
+      "$oid": "5e1436dcdd12fa252ffeb260"
+    },
+    {
+      "$oid": "5e1436e1dd12fa252ffeb261"
+    },
+    {
+      "$oid": "5e1436e7dd12fa252ffeb262"
+    }
+  ],
+  "identity_name": "Optimizer"
+},{
+  "_id": {
+    "$oid": "5e141da844d9751c19fb4b67"
+  },
+  "status": 1,
+  "description": "A Planner is someone who plans things.",
+  "createdAt": {
+    "$date": "2020-01-07T05:56:56.909Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:46:45.574Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e14370add12fa252ffeb263"
+    },
+    {
+      "$oid": "5e143713dd12fa252ffeb264"
+    },
+    {
+      "$oid": "5e14371add12fa252ffeb265"
+    },
+    {
+      "$oid": "5e14371fdd12fa252ffeb266"
+    },
+    {
+      "$oid": "5e143724dd12fa252ffeb267"
+    },
+    {
+      "$oid": "5e14372add12fa252ffeb268"
+    },
+    {
+      "$oid": "5e14372fdd12fa252ffeb269"
+    },
+    {
+      "$oid": "5e143735dd12fa252ffeb26a"
+    },
+    {
+      "$oid": "5e14373add12fa252ffeb26b"
+    },
+    {
+      "$oid": "5e143741dd12fa252ffeb26c"
+    },
+    {
+      "$oid": "5e143746dd12fa252ffeb26d"
+    },
+    {
+      "$oid": "5e14374bdd12fa252ffeb26e"
+    },
+    {
+      "$oid": "5e143752dd12fa252ffeb26f"
+    },
+    {
+      "$oid": "5e14375add12fa252ffeb270"
+    },
+    {
+      "$oid": "5e14375fdd12fa252ffeb271"
+    },
+    {
+      "$oid": "5e143765dd12fa252ffeb272"
+    }
+  ],
+  "identity_name": "Planner"
+},{
+  "_id": {
+    "$oid": "5e141db744d9751c19fb4b68"
+  },
+  "status": 1,
+  "description": "An Analyst is someone who is an expert at analyzing and managing quantitative data.",
+  "createdAt": {
+    "$date": "2020-01-07T05:57:11.410Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T07:48:43.750Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e143786dd12fa252ffeb273"
+    },
+    {
+      "$oid": "5e14378cdd12fa252ffeb274"
+    },
+    {
+      "$oid": "5e143792dd12fa252ffeb275"
+    },
+    {
+      "$oid": "5e143798dd12fa252ffeb276"
+    },
+    {
+      "$oid": "5e14379edd12fa252ffeb277"
+    },
+    {
+      "$oid": "5e1437a4dd12fa252ffeb278"
+    },
+    {
+      "$oid": "5e1437aadd12fa252ffeb279"
+    },
+    {
+      "$oid": "5e1437b1dd12fa252ffeb27a"
+    },
+    {
+      "$oid": "5e1437b8dd12fa252ffeb27b"
+    },
+    {
+      "$oid": "5e1437bfdd12fa252ffeb27c"
+    },
+    {
+      "$oid": "5e1437c5dd12fa252ffeb27d"
+    },
+    {
+      "$oid": "5e1437cbdd12fa252ffeb27e"
+    },
+    {
+      "$oid": "5e1437d0dd12fa252ffeb27f"
+    },
+    {
+      "$oid": "5e1437d6dd12fa252ffeb280"
+    },
+    {
+      "$oid": "5e1437dbdd12fa252ffeb281"
+    }
+  ],
+  "identity_name": "Analyst"
+},{
+  "_id": {
+    "$oid": "5e141dc444d9751c19fb4b69"
+  },
+  "status": 1,
+  "description": "A Researcher is someone whose job involves discovering or verifying information for use in a book, program, etc.",
+  "createdAt": {
+    "$date": "2020-01-07T05:57:24.543Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-07T08:07:11.300Z"
+  },
+  "__v": 0,
+  "discoverIdentity_id": [
+    {
+      "$oid": "5e143baadd12fa252ffeb282"
+    },
+    {
+      "$oid": "5e143bb0dd12fa252ffeb283"
+    },
+    {
+      "$oid": "5e143bb6dd12fa252ffeb284"
+    },
+    {
+      "$oid": "5e143bbcdd12fa252ffeb285"
+    },
+    {
+      "$oid": "5e143bc2dd12fa252ffeb286"
+    },
+    {
+      "$oid": "5e143bc7dd12fa252ffeb287"
+    },
+    {
+      "$oid": "5e143bcddd12fa252ffeb288"
+    },
+    {
+      "$oid": "5e143bd2dd12fa252ffeb289"
+    },
+    {
+      "$oid": "5e143bdadd12fa252ffeb28a"
+    },
+    {
+      "$oid": "5e143be0dd12fa252ffeb28b"
+    },
+    {
+      "$oid": "5e143be6dd12fa252ffeb28c"
+    },
+    {
+      "$oid": "5e143beddd12fa252ffeb28d"
+    },
+    {
+      "$oid": "5e143bf2dd12fa252ffeb28e"
+    },
+    {
+      "$oid": "5e143bf7dd12fa252ffeb28f"
+    },
+    {
+      "$oid": "5e143bfddd12fa252ffeb290"
+    },
+    {
+      "$oid": "5e143c03dd12fa252ffeb291"
+    },
+    {
+      "$oid": "5e143c08dd12fa252ffeb292"
+    },
+    {
+      "$oid": "5e143c0ddd12fa252ffeb293"
+    },
+    {
+      "$oid": "5e143c12dd12fa252ffeb294"
+    },
+    {
+      "$oid": "5e143c18dd12fa252ffeb295"
+    },
+    {
+      "$oid": "5e143c1ddd12fa252ffeb296"
+    },
+    {
+      "$oid": "5e143c23dd12fa252ffeb297"
+    },
+    {
+      "$oid": "5e143c29dd12fa252ffeb298"
+    },
+    {
+      "$oid": "5e143c2fdd12fa252ffeb299"
+    }
+  ],
+  "identity_name": "Researcher"
+}]

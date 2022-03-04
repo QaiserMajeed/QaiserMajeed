@@ -1,0 +1,50 @@
+{
+  "DNA": {
+    "identities": ["enjoyment", "stability", "equality"],
+    "impacts": [
+      { "identity": "enjoyment", "verb": "find", "rank": 0 },
+      { "identity": "enjoyment", "verb": "innovate", "rank": 1 },
+      { "identity": "enjoyment", "verb": "develop", "rank": 2 },
+      { "identity": "stability", "verb": "arrange", "rank": 0 },
+      { "identity": "stability", "verb": "enforce", "rank": 1 },
+      { "identity": "stability", "verb": "corroborate", "rank": 2 },
+      { "identity": "equality", "verb": "empathize", "rank": 0 },
+      { "identity": "equality", "verb": "compare", "rank": 1 },
+      { "identity": "equality", "verb": "establish", "rank": 2 }
+    ],
+    "completed": true
+  },
+  "score": {
+    "life": 5,
+    "completed": true,
+    "day": 2,
+    "lifeIncludes": 4,
+    "personalExistence": 4,
+    "updatedAt": "2021-08-09T18:53:05.004Z",
+    "goals": 6,
+    "dreams": 6,
+    "legacy": 6,
+    "lifeControl": 6,
+    "purpose": 6,
+    "currentMissions": 6
+  },
+  "emotionalIntl": {
+    "relateToExperience": 4,
+    "easyToAsk": 4,
+    "peopleIChoose": 4,
+    "financialSatisfied": 4,
+    "financialDecisions": 4,
+    "ableToUnderstand": 4,
+    "financialAsking": 4,
+    "financialHelp": 4,
+    "financialProblems": 4,
+    "financialDiffers": 4,
+    "adapt": 4,
+    "moneyPressure": 4,
+    "thinkingDecisions": 4,
+    "feelGrateful": 4,
+    "outlook": 2,
+    "completed": true
+  },
+  "completed": true
+}
